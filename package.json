@@ -1,0 +1,19 @@
+{
+  "name": "moburst",
+  "version": "1.0.0",
+  "description": "moburst home task",
+  "main": "gulp.js",
+  "scripts": {
+    "test": "test run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EliavYair1/Moburst.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EliavYair1/Moburst/issues"
+  },
+  "homepage": "https://github.com/EliavYair1/Moburst#readme"
+}
